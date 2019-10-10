@@ -1,0 +1,9 @@
+Design Galleries: A General Approach to Setting Parameters for Computer Graphics and Animation
+
+This is quite the pioneer work for parameterized design system. The most impressing thing for me is the time of the paper, 1997. It was a time when computer graphics was still very young and high quality real-time rendering is very expensive. It is meaningful to see how the author tried to come over such restrictions of computer graphics and finally establish a working system. 
+
+Although the idea of such kind of system seems not hard to come up with, the real difficulty comes from the restriction of certain kind of technology. This reminds me of the development of deep learning. Introduced in 1950s, Artificial Neural Network took over 60 years to wait for the era of big data and development of computational capacity. The idea is already there, but breaking the restrictions and making it work is always a more difficult task.
+
+Design as Exploration: Creating Interface Alternatives through Parallel Authoring and Runtime Tuning
+ 
+This paper let me think about a question: how to build a good design system? I think there is no standard answer, but I believe that thinking from the user's aspect and trying to meet their needs is always important. The author introduce the idea by raising the question, how might authoring environments support designers in creating and managing design options? This is important for designers but the traditional design tools only focus on creating single artifacts. Such kind of gap lead the author to come up with a system with parallel editing and execution. With this wonderful idea and excellent engineering, there is no doubt that the final system will be successful.
