@@ -1,0 +1,6 @@
+Stop Drawing Dead Fish
+Thinking of creating new art forms instead of same art forms with new tools is really heuristic way of understanding the opportunities that new technology brings to artists. The inspiration of vedio games is impressive because it only exists on computer and is artistic to some extent. 
+Another impressive point is that Bret believe that code is not appropriate for creating visual art. I cannot totally agree with him because code is the most direct way to communicate with computer, but I believe turning algebra to geometry is really helpful for artists. Also, it is really important to let artists express and convert their thoughts freely and not be limited by the difficulty of coding. This is what Bret's interface provides with, in a straightforward and practical way.
+
+Dynamic Pictures
+The word dynamic is not hard to understand, but it becomes complex in the field of art. Bret believes that real dynamic needs to focus on artistic expression and dynamic drawing means creating dynamic behavior by manipulating the picture itself. I think that different people may have different understanding on dynamic so it is not neccessary to argue what is the correct definition. However, I like Bret's understanding on dynamic and appreciate his explorations on approaches to realize his ideas on it.
