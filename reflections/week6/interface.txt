@@ -1,4 +1,5 @@
-User Interface: A Personal View by Alan Kay (1989)
-I was really shocked by the fact that the first GUI was developed in early 1970s. 
-
 Alternative Programming Interfaces for Alternative Programmers by Toby Schachman 
+
+The paper raised many interesting points about how we define and understand interface. One interesting point is the social interfaces. I did not notice before but I cannot agree more that programming has become very social nowadays. This is especially important for interface as it naturally involves communication with others. 
+Another interesting point is shifting focus from program construction to program transformation. Traditionally, the reductionist nature allows creator reason on relevant level of abstraction pyramid but makes it hard for modification. The way to make program transformation easier is that we define it by operations or relations rather than atoms that comstitute it. I think this idea makes sense in some cases but it loses some degrees of freedom because the set of all relations is huge so there is no way to include all of them in the program by this kind of approach. However, it does work well for the situation that only certain kinds of relations are important or needed. 
+
