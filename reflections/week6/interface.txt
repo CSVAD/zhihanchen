@@ -1,0 +1,4 @@
+User Interface: A Personal View by Alan Kay (1989)
+I was really shocked by the fact that the first GUI was developed in early 1970s. 
+
+Alternative Programming Interfaces for Alternative Programmers by Toby Schachman 
