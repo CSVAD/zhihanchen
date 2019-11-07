@@ -1,0 +1,9 @@
+Reflections on Designing Construction Kits for Kids by Mitchel Resnick and Brian Silverman
+
+Designing tools for kids always requires people to think in a different way. In my opinion, the main difference from tools for adaults is that the goal for this kind of tool is mainly educational rather than productive. So I agree with the authors that "learning through designing" is the most important principle since it is much more educational to let kids design and explore rather than only construct by following certain instructions. Many other principles also support this idea, such as MAKE POWERFUL IDEAS SALIENT – NOT FORCED and SUPPORT MANY PATHS, MANY STYLES. These principles ensures that kids can freely explore and learn important ideas from the tool.
+
+Learnable Programming by Bret Victor
+
+It is interesting to think about how to let people understand the program. For well-trained programmers like us, we are able to comprehensively understand how the machine and the program work. However, this could be a very hard task for ordinary people. Enabling programmers to see  is one of the most powerful ways to make them understand it. However, what to see is not a easy question. In processing, programmers can see the execution result of the program, but it is not enough. It is helpful for the programmers to see explanations, meanings, flow, time, etc. There are too many things to see, but simply presenting them altogether will make the user crazy. So how to design an interface that let them see the important things in a convinient and controlled way is a hard task, and making it suitable for everybody is almost impossible.
+
+
