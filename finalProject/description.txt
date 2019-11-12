@@ -1,0 +1,7 @@
+Create a programming library for Processing
+
+I try to create a library that allows object-oriented control over different kinds of primitives. 
+First part is to represent and parameterize some primitives like stars, arrows, etc so that users can simply call the construct function to create those primitives.
+Another part is to present control methods on object created, such as draw, move, rotate, etc.
+Users can call these methods to control the way they are presented on the screen.
+This library simplify the process of creating and modifying different primitives and controlling the primitives. This can help people who want to create simple draft or process quickly and do not care much about details. 
