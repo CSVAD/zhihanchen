@@ -1,0 +1,5 @@
+1.What new challenges or constraints did the plotter add when creating computational art and design?
+The main challenge is the control of color. I must stop the machine to change the color, so it will be really hard to create different color is same part or area. The best way is to draw the parts of the same color together. But it is not always feasible when creating complex images. 
+
+2.What new expressive opportunities (if any) did the plotter offer over screen-based output?
+The plotter combines advantages of both printing (high accuracy) and hand-drawing (variety and sense of art). The ability to change pens is very helpful so that I can draw different kinds of line, which makes it looks better.    
